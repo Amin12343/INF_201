@@ -1,0 +1,2 @@
+﻿[2026-10-01 11:20:00] ERROR [User: anders.jönsson@nordic.se] [IP: 172.16.0.4] Database connection failed.
+[2026-10-01 11:21:15] INFO [User: beatriz.garcía@empresa.es] [IP: 192.168.1.15] Reconnected successfully.

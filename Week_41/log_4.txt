@@ -1,0 +1,2 @@
+[2026-10-01 13:40:12] INFO [User: hans.schröder@bayern.de] [IP: 192.168.3.100] Server in München.
+[2026-10-01 13:42:05] ERROR [User: chloe.château@vins.fr] [IP: 10.10.10.10] Access denied.
